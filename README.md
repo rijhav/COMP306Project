@@ -1,4 +1,4 @@
-# COMP306Project
+# Database Management System
 For this project I was required to build a Java database application for a business scenario designed by myself. I decided to build a database management system for a 
 car company, which manufactures and sells cars, that aided the owner in automating some of the business processes. The application allowed the user to create a new 
 record in the database, delete an existing record from the database and display 3 reports of significant complexity based on the records stored in the database. 
